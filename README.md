@@ -25,4 +25,4 @@
 - Meu nome é João Buri
 - Estou aprendendo Desenvolvimento Web
 - Procuro trabalho como iniciante na área
-- Instagram: https://www.instagram.com/joao.buri/
+
