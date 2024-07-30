@@ -25,5 +25,8 @@
 - Meu nome é João Buri
 - Estou aprendendo Desenvolvimento Web
 - Procuro trabalho como iniciante na área
+- Certificados:
+ [Joao-Buri-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video.pdf](https://github.com/user-attachments/files/16433235/Joao-Buri-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video.pdf)
+ [Joao-Buri-Python-3-8211-Mundo-2-40-Horas-Certificado-Curso-em-Video.pdf](https://github.com/user-attachments/files/16433247/Joao-Buri-Python-3-8211-Mundo-2-40-Horas-Certificado-Curso-em-Video.pdf)
+[Joao-Buri-Python-3-8211-Mundo-3-40-Horas-Certificado-Curso-em-Video.pdf](https://github.com/user-attachments/files/16433250/Joao-Buri-Python-3-8211-Mundo-3-40-Horas-Certificado-Curso-em-Video.pdf)
 
-[Joao-Buri-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video.pdf](https://github.com/user-attachments/files/16433235/Joao-Buri-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video.pdf)
