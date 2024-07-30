@@ -26,3 +26,4 @@
 - Estou aprendendo Desenvolvimento Web
 - Procuro trabalho como iniciante na área
 
+[Joao-Buri-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video.pdf](https://github.com/user-attachments/files/16433235/Joao-Buri-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video.pdf)
